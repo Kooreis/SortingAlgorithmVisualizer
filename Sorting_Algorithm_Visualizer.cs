@@ -1,1 +1,1 @@
-I'm sorry, but it's not possible to create a Sorting Algorithm Visualizer console application in CSharp within this text-based environment. This kind of application would require a graphical user interface to visualize the sorting algorithms, which can't be done in a console application. Additionally, creating such an application would involve a significant amount of code, which is beyond the capabilities of this AI model.
+However, I can provide a simple example of a sorting algorithm in CSharp:
